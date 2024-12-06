@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liax22cf aka Axel
 - 👀 I’m interested in almost everything
-- 🌱 I’m currently learning typescript, react, haskell and scrum.
+- 🌱 I’m currently learning react, nextjs, research methods and tailwind css.
 - 💞️ I’m looking to collaborate with fun and smart people
 - 📫 How to reach me: actually.lindh@gmail.com
 - ⚡ Fun fact: we landed on the moon.
